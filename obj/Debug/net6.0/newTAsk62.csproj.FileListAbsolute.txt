@@ -1,0 +1,15 @@
+/home/user-rast/Рабочий стол/newTAsk62/bin/Debug/net6.0/newTAsk62
+/home/user-rast/Рабочий стол/newTAsk62/bin/Debug/net6.0/newTAsk62.deps.json
+/home/user-rast/Рабочий стол/newTAsk62/bin/Debug/net6.0/newTAsk62.runtimeconfig.json
+/home/user-rast/Рабочий стол/newTAsk62/bin/Debug/net6.0/newTAsk62.dll
+/home/user-rast/Рабочий стол/newTAsk62/bin/Debug/net6.0/newTAsk62.pdb
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/newTAsk62.csproj.AssemblyReference.cache
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/newTAsk62.GeneratedMSBuildEditorConfig.editorconfig
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/newTAsk62.AssemblyInfoInputs.cache
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/newTAsk62.AssemblyInfo.cs
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/newTAsk62.csproj.CoreCompileInputs.cache
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/newTAsk62.dll
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/refint/newTAsk62.dll
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/newTAsk62.pdb
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/newTAsk62.genruntimeconfig.cache
+/home/user-rast/Рабочий стол/newTAsk62/obj/Debug/net6.0/ref/newTAsk62.dll
